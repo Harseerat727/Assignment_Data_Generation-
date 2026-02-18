@@ -54,19 +54,15 @@ Lower MSE indicates better model performance.
 
 ---
 
-## 📌 Result Table
-The table below shows the performance of each model.  
-This table is automatically generated and saved as a CSV file.
+## 📊 Result Table
 
-| Model Name          | Mean Squared Error |
-|---------------------|-------------------|
-| Linear Regression   | 105.32            |
-| Ridge Regression    | 102.87            |
-| Lasso Regression    | 109.45            |
-| Decision Tree       | 78.64             |
-| Random Forest       | **45.21**         |
-
-📁 File saved as: `simulation_results.csv`
+| Model              | Mean Squared Error (MSE) |
+|--------------------|--------------------------|
+| Linear Regression  | 28.617177                |
+| Random Forest      | 34.469134                |
+| KNN                | 59.430369                |
+| Decision Tree      | 64.302880                |
+| SVR                | 147.178395               |
 
 ---
 

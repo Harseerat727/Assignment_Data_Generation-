@@ -73,7 +73,8 @@ This table is automatically generated and saved as a CSV file.
 ## 📌 Result Graph
 The graph below visually compares model performance.
 
-![Model Comparison](simulation_comparison.png)
+![Model Comparison](model_comparison.png)
+
 
 📁 File saved as: `simulation_comparison.png`
 

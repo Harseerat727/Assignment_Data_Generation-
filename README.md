@@ -81,9 +81,13 @@ The graph below visually compares model performance.
 ---
 
 ## 📌 Best Model Identified
-Based on the evaluation results:
-- **Random Forest Regressor** achieved the lowest Mean Squared Error
-- It is identified as the **best-performing model**
+Based on the evaluation results obtained from the simulated dataset:
+
+- **Linear Regression** achieved the lowest Mean Squared Error
+- Hence, Linear Regression is identified as the **best-performing model** for this simulation
+
+This indicates that the relationship between features and target variable in the simulated data is largely linear.
+
 
 ---
 
